@@ -37,6 +37,7 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 | [Disentangle-based Continual Graph Representation Learning](https://aclanthology.org/2020.emnlp-main.237.pdf)                                                    | EMNLP    |   2020 |
 | [Online Conversation Disentanglement with Pointer Networks](https://aclanthology.org/2020.emnlp-main.512.pdf)                                                    | EMNLP    |   2020 |
 | [Neutralizing Gender Bias in Word Embeddings with Latent Disentanglement and Counterfactual Generation](https://aclanthology.org/2020.findings-emnlp.280.pdf)    | EMNLP    |   2020 |
+| [Building Hierarchically Disentangled Language Models for Text Generation with Named Entities](https://aclanthology.org/2020.coling-main.3.pdf)                  | COLING   |   2020 |
 | [Explaining Word Embeddings via Disentangled Representation](https://aclanthology.org/2020.aacl-main.72.pdf)                                                     | AACL     |   2020 |
 | [Text Classification through Glyph-aware Disentangled Character Embedding and Semantic Sub-character Augmentation](https://aclanthology.org/2020.aacl-srw.1.pdf) | AACL     |   2020 |
 | [Neutralizing Gender Bias in Word Embeddings with Latent Disentanglement and Counterfactual Generation](https://aclanthology.org/2020.findings-emnlp.280.pdf)    | Findings |   2020 |
